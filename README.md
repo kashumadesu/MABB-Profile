@@ -1,7 +1,7 @@
 # Wassap I'm kashumadesu
 
 
-I'm currently studying for a ['Bachelor of Science in Information Technology'] at OLFU QC - PH
+I'm currently studying for a Bachelor of Science in Information Technology at OLFU QC - PH
 
 I'm trying my best to survive at this university and I can call myself a fast learner with the help of AI hehe
 
