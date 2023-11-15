@@ -12,9 +12,10 @@ I'm more into Front Dev.
 ## Highlights 
 
 About me
+
 Good at communicating
 
-Willingness to learn knowledge not just about programming 
+Willing to learn knowledge not just about programming 
 
 Great Leader (great team player)
 
