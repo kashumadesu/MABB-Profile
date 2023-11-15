@@ -12,10 +12,13 @@ I'm more into Front Dev.
 ## Highlights 
 
 About me
-Good at communicating 
+Good at communicating
+
 Willingness to learn knowledge not just about programming 
+
 Great Leader (great team player)
-The languages I use are `Java`, `C`, `C++` and `C#`
+
+The programming languages I use are `Javascript`, `C`, `C++` and `C#`
 
 ## More
 
