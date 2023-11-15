@@ -13,7 +13,7 @@ About me
 Good at communicating 
 Willingness to learn knowledge not just about programming 
 Great Leader (great team player)
-The languages I use are ['Java'], ['C'], ['C++']
+The languages I use are ['Java'], ['C'], [`C++`]
 
 
 aside from that I'm knowledgeable in ['HTML'], [CSS], and ['JavaScript'], and im currently learning ['C Language'] and ['C++']
