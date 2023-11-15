@@ -22,7 +22,8 @@ The programming languages I use are `Javascript`, `C`, `C++` and `C#`
 
 ## More
 
-aside from that I'm knowledgeable in `HTML`, `CSS`, `C#`, and `JavaScript`, and im currently learning `C Language` and `C++`
+aside from that I'm knowledgeable in `HTML`, `CSS`, `C#`, and `xamarin`, and im currently learning `C Language` and `C++`
+
 I created this account so I can store my codes here because it is free so why not?
 
 
