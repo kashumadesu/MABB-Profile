@@ -21,7 +21,7 @@ aside from that I'm knowledgeable in `HTML`, `CSS`, and `JavaScript`, and im cur
 I created this account so I can store my codes here because it is free so why not?
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I use:</h3>
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
