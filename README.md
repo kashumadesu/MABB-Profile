@@ -1,4 +1,4 @@
-# Wassap I'm kashumadesu/MABB
+# Wassap I'm MABB
 
 
 I'm currently studying for a Bachelor of Science in Information Technology at OLFU QC - PH
