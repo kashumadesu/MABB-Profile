@@ -2,8 +2,11 @@
 
 
 I'm currently studying Information Technology (BSIT) at OLFU QC - PH
+
 I'm trying my best to survive at this university and I can call myself a fast learner with the help of AI hehe.
+
 My dream job is to be a Web developer or Cyber Security. 
+
 I'm more into Front Dev.
 
 ## Highlights 
