@@ -5,7 +5,7 @@ I'm currently studying for a Bachelor of Science in Information Technology at OL
 
 I'm trying my best to survive at this university and I can call myself a fast learner with the help of AI hehe
 
-I'm good at Web dev because I want to be a Web developer heh 
+I'm good at Front Dev because I want to be a Web developer heh 
 
 ## My features are 
 
